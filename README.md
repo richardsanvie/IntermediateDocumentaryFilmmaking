@@ -1,4 +1,4 @@
-# Early21stCenturyRomanticism
+# IntermediateDocumentaryFilmmaking
 
 ![Minha Imagem](https://github.com/richardsanvie/IntermediateDocumentaryFilmmaking/blob/main/src/assets/anigif.gif)
 
